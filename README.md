@@ -1,7 +1,8 @@
 
-  ### Hola! Soy Aleja! 
-  Desarolladora Front-end
-  ⭐⭐⭐⭐⭐⭐
+   ### Hola! Soy Aleja,
+  
+  ⭐Front-end Developer⭐
+  
 
 ![Frame 29 (1)](https://user-images.githubusercontent.com/85901845/139186569-ba316c07-6c79-4e9c-8568-2fca0dddc070.png)
 
