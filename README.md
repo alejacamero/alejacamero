@@ -1,5 +1,5 @@
 
-   ### Hola! Soy Aleja,
+   ### Hola! 🤗 Soy Aleja,
   
   ⭐Front-end Developer⭐
   
