@@ -5,8 +5,8 @@
 
 <h3 text-align="justify">Sobre mi</h3>
 
-Soy una profesional empática y creativa que ha encontrado su verdadera pasión en la programación. 
-A lo largo de mi trayectoria, he desarrollado habilidades destacadas en CSS, Javascript, HTML5, SCRUM, Diseño UX, REACT, Trello, Figma y Firebase. Ccompetencias que se fusionan armoniosamente con mi amor por el diseño.
+Soy una profesional empática y creativa que ha encontrado su verdadera pasión en la programación. <br> 
+A lo largo de mi trayectoria, he desarrollado habilidades destacadas en CSS, Javascript, HTML5, SCRUM, Diseño UX, REACT, Trello, Figma y Firebase. Ccompetencias que se fusionan armoniosamente con mi amor por el diseño. <br>
 La programación me ha abierto las puertas a un universo nuevo, permitiéndome comunicar y comprender de manera más efectiva las necesidades contemporáneas de mi entorno, lo cual me capacita para ofrecer soluciones eficaces y competitivas a través de la programación.
 
 - 🌱 En 2020 estudié en <strong>Laboratoria</strong> y obtuve mi diploma en **Desarrollo Web Front End**.
