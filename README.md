@@ -13,7 +13,7 @@ Soy una profesional empática y creativa que ha encontrado su verdadera pasión 
 
 - 🌱 En 2022 estudié en <strong>Digital House</strong> y obtuve mi diploma como **Certified Tech Developer**. 👩🏻‍💻
 
-- 🌱 En 2024 estudié en <strong>Course</strong> y obtuve mi certificado profesional **Diseño de Experiencia del Usuario (UX)** de <strong>Google</strong>. 👩🏻‍🎨
+- 🌱 En 2024 estudié en <strong>Coursera</strong> y obtuve mi certificado profesional **Diseño de Experiencia del Usuario (UX)** de <strong>Google</strong>. 👩🏻‍🎨
 
 - 📫 How to reach me by: e-mail: <a href="mailto:ale.camero777">ale.camero777@gmail.com </a> or  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alecamero" height="25" width="25" /> at <a href="https://www.linkedin.com/in/alecamero" target="blank"> Alejandra Camero</a>.</p>
 
