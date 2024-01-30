@@ -21,9 +21,10 @@ La programación me ha abierto las puertas a un universo nuevo, permitiéndome c
 
 <h3 align="left">Languages and Tools:</h3>
 
+<div style="text-align: center;"> 
 | Front End | 
 | --------- | 
-| <div style="text-align: center;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-left: 100px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40" style="margin-left: 100px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-left: 100px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typrscript" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="40" height="40" style="margin-left: 100px;" /></div> | 
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-left: 100px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40" style="margin-left: 100px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-left: 100px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typrscript" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="40" height="40" style="margin-left: 100px;" /> | 
 
 | Control version | Extra |
 | --------------- | ----- |
@@ -32,7 +33,7 @@ La programación me ha abierto las puertas a un universo nuevo, permitiéndome c
 | Ágile |  IDE |
 | ----- | --- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50" style="margin-left: 100px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="60" height="60" style="margin-left: 100px;" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" width="40" height="40" style="margin-left: 100px;" /> |
-
+</div>
 
 ---
 <p align="left">
