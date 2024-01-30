@@ -19,7 +19,7 @@ Soy una profesional empática y creativa que ha encontrado su verdadera pasión 
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 
 | Front End | 
 | --------- | 
