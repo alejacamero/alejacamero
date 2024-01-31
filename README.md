@@ -5,15 +5,15 @@
 
 <h3 text-align="justify">Sobre mi</h3>
 
-Soy una profesional empática y creativa que ha encontrado su verdadera pasión en la programación. <br> 
-<br>A lo largo de mi trayectoria, he desarrollado habilidades destacadas en CSS, Javascript, HTML5, SCRUM, Diseño UX, REACT, Trello, Figma y Firebase. Ccompetencias que se fusionan armoniosamente con mi amor por el diseño. <br>
-<br>La programación me ha abierto las puertas a un universo nuevo, permitiéndome comunicar y comprender de manera más efectiva las necesidades contemporáneas de mi entorno, lo cual me capacita para ofrecer soluciones eficaces y competitivas a través de la programación.
+Soy una apasionada y creativa profesional especializada en el desarrollo web Front-End y diseño UX <br> 
+<br>A lo largo de mi carrera, he cultivado habilidades sobresalientes en CSS, Javascript, HTML5, SCRUM, REACT, Trello, Firebase, así como en el diseño de experiencia de usuario utilizando herramientas como Figma y Adobe XD. <br>
+<br>Mi enfoque armonioso entre la programación y el diseño me ha permitido no solo adquirir destrezas técnicas sólidas, sino también comprender de manera efectiva las necesidades de mi entorno. Esta combinación única de habilidades me capacita para ofrecer soluciones eficaces y competitivas en el desarrollo web, donde encuentro una fuente ilimitada de conocimiento y oportunidades para aplicar mi empatía y creatividad.
 
 - 🌱 En 2020 estudié en <strong>Laboratoria</strong> y obtuve mi diploma en **Desarrollo Web Front End**. 💻
 
-- 🌱 En 2022 estudié en <strong>Digital House</strong> y obtuve mi diploma como **Certified Tech Developer**. 👩🏻‍💻
+- 🌱 En 2022 inicie mis estudios en <strong>Digital House</strong> para obtener  mi diploma como **Certified Tech Developer**. 👩🏻‍💻
 
-- 🌱 En 2024 estudié en <strong>Coursera</strong> y obtuve mi certificado profesional **Diseño de Experiencia del Usuario (UX)** de <strong>Google</strong>. 👩🏻‍🎨
+- 🌱 En 2023 y 2024 estudié en <strong>Coursera</strong> y obtuve mi certificado profesional **Diseño de Experiencia del Usuario (UX)** de <strong>Google</strong>. 👩🏻‍🎨
 
 - 📫 How to reach me by: e-mail: <a href="mailto:ale.camero777">ale.camero777@gmail.com </a> or  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alecamero" height="25" width="25" /> at <a href="https://www.linkedin.com/in/alecamero" target="blank"> Alejandra Camero</a>.</p>
 
