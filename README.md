@@ -6,8 +6,8 @@
 <h3 text-align="justify">Sobre mi</h3>
 
 Soy una apasionada y creativa profesional especializada en el desarrollo web Front-End y diseño UX <br> 
-<br>A lo largo de mi carrera, he cultivado habilidades sobresalientes en CSS, Javascript, HTML5, SCRUM, REACT, Trello, Firebase, así como en el diseño de experiencia de usuario utilizando herramientas de prototipado como Figma y Adobe XD. <br>
-<br>Mi enfoque armonioso entre la programación y el diseño me ha permitido no solo adquirir destrezas técnicas sólidas, sino también comprender de manera efectiva las necesidades de mi entorno. Esta combinación única de habilidades me capacita para ofrecer soluciones eficaces y competitivas en el desarrollo web, donde encuentro una fuente ilimitada de conocimiento y oportunidades para aplicar mi empatía y creatividad.
+<br>A lo largo de mi carrera, he cultivado habilidades sobresalientes en CSS, Javascript, HTML5, SCRUM, REACT, Trello, Firebase, así como en el diseño de experiencia del usuario utilizando herramientas de prototipado como Figma y Adobe XD. <br>
+<br>Mi enfoque armonioso entre la programación y el diseño me ha permitido no solo adquirir destrezas técnicas sólidas, sino también comprender de manera efectiva las necesidades de mi entorno. Esta combinación única de habilidades me capacita para ofrecer soluciones eficaces y competitivas en el desarrollo web, donde encuentro una fuente ilimitada de conocimiento y oportunidades para aplicar mi empatía y creatividad.<br>
 
 - 🌱 En 2020 estudié en <strong>Laboratoria</strong> y obtuve mi diploma en **Desarrollo Web Front End**. 💻
 
